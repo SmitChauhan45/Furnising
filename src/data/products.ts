@@ -15,7 +15,7 @@ export const products: Product[] = [
     name: "Royal Blue L-Shape",
     category: "sofa",
     description: "Luxurious velvet L-shaped sofa with decorative cushions",
-    imageUrl: "src/assets/sofa/sofa1.jpg",
+    imageUrl: "/assets/sofa/sofa1.jpg",
     price: "starting from 400₹ per feet",
   },
   {
@@ -23,7 +23,7 @@ export const products: Product[] = [
     name: "Modern Grey Set",
     category: "sofa",
     description: "Contemporary grey sofa set with wooden base",
-    imageUrl: "src/assets/sofa/sofa2.jpg",
+    imageUrl: "/assets/sofa/sofa2.jpg",
     price: "starting from 400₹ per feet",
   },
   {
@@ -31,7 +31,7 @@ export const products: Product[] = [
     name: "Forest Green Corner",
     category: "sofa",
     description: "Spacious corner sofa with matching ottoman stools",
-    imageUrl: "src/assets/sofa/sofa3.jpg",
+    imageUrl: "/assets/sofa/sofa3.jpg",
     price: "starting from 400₹ per feet",
   },
   {
@@ -39,7 +39,7 @@ export const products: Product[] = [
     name: "Dusty Rose L-Shape",
     category: "sofa",
     description: "Modern L-shaped sofa in elegant dusty rose",
-    imageUrl: "src/assets/sofa/sofa4.jpg",
+    imageUrl: "/assets/sofa/sofa4.jpg",
     price: "starting from 400₹ per feet",
   },
   {
@@ -47,7 +47,7 @@ export const products: Product[] = [
     name: "Dusty Rose L-Shape",
     category: "sofa",
     description: "Modern L-shaped sofa in elegant dusty rose",
-    imageUrl: "src/assets/sofa/sofa5.jpg",
+    imageUrl: "/assets/sofa/sofa5.jpg",
     price: "starting from 400₹ per feet",
   },
   {
@@ -55,7 +55,7 @@ export const products: Product[] = [
     name: "Dusty Rose L-Shape",
     category: "sofa",
     description: "Modern L-shaped sofa in elegant dusty rose",
-    imageUrl: "src/assets/sofa/sofa6.jpg",
+    imageUrl: "/assets/sofa/sofa6.jpg",
     price: "starting from 400₹ per feet",
   },
   {
@@ -63,7 +63,7 @@ export const products: Product[] = [
     name: "Dusty Rose L-Shape",
     category: "sofa",
     description: "Modern L-shaped sofa in elegant dusty rose",
-    imageUrl: "src/assets/sofa/sofa7.jpg",
+    imageUrl: "/assets/sofa/sofa7.jpg",
     price: "starting from 400₹ per feet",
   },
   {
@@ -71,7 +71,7 @@ export const products: Product[] = [
     name: "Dusty Rose L-Shape",
     category: "sofa",
     description: "Modern L-shaped sofa in elegant dusty rose",
-    imageUrl: "src/assets/sofa/sofa8.jpg",
+    imageUrl: "/assets/sofa/sofa8.jpg",
     price: "starting from 400₹ per feet",
   },
   {
@@ -79,7 +79,7 @@ export const products: Product[] = [
     name: "Dusty Rose L-Shape",
     category: "sofa",
     description: "Modern L-shaped sofa in elegant dusty rose",
-    imageUrl: "src/assets/sofa/sofa9.jpg",
+    imageUrl: "/assets/sofa/sofa9.jpg",
     price: "starting from 400₹ per feet",
   },
   {
@@ -87,7 +87,7 @@ export const products: Product[] = [
     name: "Dusty Rose L-Shape",
     category: "sofa",
     description: "Modern L-shaped sofa in elegant dusty rose",
-    imageUrl: "src/assets/sofa/sofa10.jpg",
+    imageUrl: "/assets/sofa/sofa10.jpg",
     price: "starting from 400₹ per feet",
   },
   {
@@ -95,7 +95,7 @@ export const products: Product[] = [
     name: "Dusty Rose L-Shape",
     category: "sofa",
     description: "Modern L-shaped sofa in elegant dusty rose",
-    imageUrl: "src/assets/sofa/sofa11.jpg",
+    imageUrl: "/assets/sofa/sofa11.jpg",
     price: "starting from 400₹ per feet",
   },
   {
@@ -103,9 +103,10 @@ export const products: Product[] = [
     name: "Dusty Rose L-Shape",
     category: "sofa",
     description: "Modern L-shaped sofa in elegant dusty rose",
-    imageUrl: "src/assets/sofa/sofa12.jpg",
+    imageUrl: "/assets/sofa/sofa12.jpg",
     price: "starting from 400₹ per feet",
   },
+
   // Chairs
   {
     id: "chair-1",
@@ -113,7 +114,7 @@ export const products: Product[] = [
     category: "chair",
     description:
       "Statement piece with plush cushioning and sturdy wooden legs.",
-    imageUrl: "src/assets/chair/chair1.jpg",
+    imageUrl: "/assets/chair/chair1.jpg",
     price: "starting from 200₹ per feet",
   },
   {
@@ -122,7 +123,7 @@ export const products: Product[] = [
     category: "chair",
     description:
       "Perfectly balanced comfort and support for everyday relaxation.",
-    imageUrl: "src/assets/chair/chair2.jpg",
+    imageUrl: "/assets/chair/chair2.jpg",
     price: "starting from 200₹ per feet",
   },
   {
@@ -130,7 +131,7 @@ export const products: Product[] = [
     name: "Dining Chair Set",
     category: "chair",
     description: "Set of 4 elegant dining chairs with comfortable upholstery.",
-    imageUrl: "src/assets/chair/chair3.jpg",
+    imageUrl: "/assets/chair/chair3.jpg",
     price: "starting from 200₹ per feet",
   },
   {
@@ -138,7 +139,7 @@ export const products: Product[] = [
     name: "Rocking Chair",
     category: "chair",
     description: "Modern take on a classic design, perfect for nurseries.",
-    imageUrl: "src/assets/chair/chair4.jpg",
+    imageUrl: "/assets/chair/chair4.jpg",
     price: "starting from 200₹ per feet",
   },
   {
@@ -146,7 +147,7 @@ export const products: Product[] = [
     name: "Rocking Chair",
     category: "chair",
     description: "Modern take on a classic design, perfect for nurseries.",
-    imageUrl: "src/assets/chair/chair5.jpg",
+    imageUrl: "/assets/chair/chair5.jpg",
     price: "starting from 200₹ per feet",
   },
   {
@@ -154,10 +155,11 @@ export const products: Product[] = [
     name: "Rocking Chair",
     category: "chair",
     description: "Modern take on a classic design, perfect for nurseries.",
-    imageUrl: "src/assets/chair/chair6.jpg",
+    imageUrl: "/assets/chair/chair6.jpg",
     price: "starting from 200₹ per feet",
   },
-  // Beds
+
+  // Beds (remain unchanged, using external URLs)
   {
     id: "bed-1",
     name: "Platform Queen Bed",
