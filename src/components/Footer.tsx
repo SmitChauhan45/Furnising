@@ -6,7 +6,7 @@ const Footer: React.FC = () => {
       <div className="container px-4 mx-auto md:px-6">
         <div className="grid grid-cols-1 gap-8 md:grid-cols-4">
           <div className="md:col-span-2">
-            <h3 className="mb-4 font-serif text-2xl font-bold">Jay Ambe Sofa & Furnishings</h3>
+            <h3 className="mb-4 font-serif text-2xl font-bold">Flair Rest</h3>
             <p className="max-w-md mb-6 text-gray-400">
               Crafting premium furniture that brings comfort and elegance to your living spaces. Each piece is designed with attention to detail and built to last.
             </p>
