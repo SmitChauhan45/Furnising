@@ -3,8 +3,8 @@ import { Phone, MessageSquare } from 'lucide-react';
 
 const Contact: React.FC = () => {
   // Replace with actual contact information
-  const phoneNumber = "+91 98981 33942";
-  const whatsappNumber = "+91 98981 33942";
+  const phoneNumber = "+91 92745 61493";
+  const whatsappNumber = "+91 92745 61493";
   
   return (
     <section id="contact" className="py-16 bg-amber-50">
@@ -34,7 +34,7 @@ const Contact: React.FC = () => {
                       <Phone className="w-6 h-6 text-amber-600" />
                     </div>
                     <div>
-                      <p className="text-sm text-gray-500">Call us directly (Kamlesh Kumar Chauhan)</p>
+                      <p className="text-sm text-gray-500">Call us directly (Ronak Chauhan)</p>
                       <p className="font-medium text-gray-700">{phoneNumber}</p>
                     </div>
                   </a>
